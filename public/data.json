@@ -3,6 +3,7 @@
     "id": 1,
     "key":"DHK",
     "name": "Dhanus",
+    "visit": "https://www.instagram.com/dhanushkraja/?hl=bn",
     "description": "Dhanush, is an Indian actor, producer, director, writer, lyricist, dancer and playback singer who predominantly works in Tamil cinema..",
     "role": "Actor",
     "age": 38,
@@ -17,6 +18,7 @@
     "id": 2,
     "key": "PRS",
     "name": "Pravash",
+    "visit": "https://www.instagram.com/actorprabhas/?hl=bn",
     "description": "Prabhas, is an Indian actor who works predominantly in Telugu cinema. One of the highest-paid actors of Indian cinema",
     "role": "Actor",
     "age": 35,
@@ -31,6 +33,7 @@
     "id": 3,
     "key": "Shk",
     "name":"Shahrukh",
+    "visit":"https://www.instagram.com/iamsrk/",
     "description": "SRK, is an Indian actor, film producer, and television personality who works in Hindi films. ",
 
     "role": "Actor",
@@ -47,6 +50,7 @@
     "id": 4,
     "key": "DPK",
     "name": "Deepika ",
+    "visit": "https://www.instagram.com/deepikapadukone/?hl=bn",
     "description": "Deepika Padukone s an Indian actress and producer who works in Hindi films. One of the highest-paid actresses in India, her accolades include three Filmfare Awards.",
     "age": 35,
     "image": "https://www.informalnewz.com/wp-content/uploads/schema-and-structured-data-for-wp/Deepika-Padukones-Smile-gets-International-Award-feature-1200x1226.jpg",
@@ -60,6 +64,7 @@
     "id": 5,
     "key": "ALB",
     "name": "Alia Bhatt",
+    "visit":"https://www.instagram.com/aliaabhatt/?hl=bn",
      "description": "Alia Bhatt  is an Indian-born British actress and singer who works in Hindi-language films.",
     "role": "Actress",
 
@@ -75,6 +80,7 @@
     "id": 6,
     "key": "ASK",
     "name": "Aksay kumar",
+    "visit": "https://www.instagram.com/akshaykumar/?hl=bn",
     "description": "Akshay Kumar is a handsome and dashing hero of Bollywood. Rajiv Hari Om Bhatia is popularly known as Akshay Kumar. He was born on 7th September 1967.",
 
     "role": "Actor",

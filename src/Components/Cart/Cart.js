@@ -26,7 +26,7 @@ const Cart = (props) =>{
                 <p className="card-text">
                   <span className="text-danger">{actors.role}</span>
                 </p>
-                <a href="/Go" className="btn btn-dark px-4">
+                <a href={actors.visit} className="btn btn-dark px-4">
                   Visit
                 </a>
               </div>
