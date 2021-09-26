@@ -1,6 +1,6 @@
 # My Awesome Movie Series
 
-This project was bootstrapped with [Create React App](https://my-awesome-movie-series.netlify.app/)
+This project was bootstrapped with [(https://my-awesome-movie-series.netlify.app/)]
 
 ## Available Scripts
 
