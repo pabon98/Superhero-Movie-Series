@@ -4,7 +4,7 @@ This project was bootstrapped with (https://my-awesome-movie-series.netlify.app/
 
 ## Available Scripts
 
-## In the Project Directory You can run:
+## In the Project Directory You can see:
 
     • This is my awesome-movie-hero site.
     • here you can know about our new movie series.
