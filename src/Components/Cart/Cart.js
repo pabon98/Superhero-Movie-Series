@@ -18,7 +18,6 @@ const Cart = (props) =>{
         <ul>
           {cart.map((actors) => (
             <div className="card mb-3  cart-img" style={{ width: "12rem" }}>
-           
               <img src={actors.image} className="card-img-top" alt="..." />
               <div className="card-body">
                 <h5 className="card-title">

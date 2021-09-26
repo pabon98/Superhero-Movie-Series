@@ -37,7 +37,7 @@ const Hero = (props) => {
                   onClick={() => props.handleAddHeroes(props.hero)}
                   className="btn btn-dark"
                 >
-                  <i class="fas fa-shopping-cart"></i> Add To Cart
+                  <i className="fas fa-shopping-cart"></i> Add To Cart
                 </button>
               </div>
             </div>
