@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "key":"DHK",
+    "name": "Dhanus",
+    "description": "Dhanush, is an Indian actor, producer, director, writer, lyricist, dancer and playback singer who predominantly works in Tamil cinema..",
+    "role": "Actor",
+    "age": 38,
+    "image": "https://i2.cinestaan.com/image-bank/1500-1500/139001-140000/139350.jpg",
+
+    "country": "India",
+
+    "salary": 70000000
+  },
+
+  {
+    "id": 2,
+    "key": "PRS",
+    "name": "Pravash",
+    "description": "Prabhas, is an Indian actor who works predominantly in Telugu cinema. One of the highest-paid actors of Indian cinema",
+    "role": "Actor",
+    "age": 35,
+    "image": "https://i.pinimg.com/originals/29/bf/14/29bf14989cdc63b290cbc612c9533863.jpg",
+
+    "country": "India",
+
+    "salary": 50000000
+  },
+
+  {
+    "id": 3,
+    "key": "Shk",
+    "name":"Shahrukh",
+    "description": "SRK, is an Indian actor, film producer, and television personality who works in Hindi films. ",
+
+    "role": "Actor",
+
+    "age": 45,
+    "image": "https://cdn.siasat.com/wp-content/uploads/2021/03/srk.jpg",
+
+    "country": "India",
+
+    "salary": 90000000
+  },
+
+  {
+    "id": 4,
+    "key": "DPK",
+    "name": "Deepika ",
+    "description": "Deepika Padukone s an Indian actress and producer who works in Hindi films. One of the highest-paid actresses in India, her accolades include three Filmfare Awards.",
+    "age": 35,
+    "image": "https://www.informalnewz.com/wp-content/uploads/schema-and-structured-data-for-wp/Deepika-Padukones-Smile-gets-International-Award-feature-1200x1226.jpg",
+
+    "country": "India",
+
+    "salary": 60000000
+  },
+
+  {
+    "id": 5,
+    "key": "ALB",
+    "name": "Alia Bhatt",
+     "description": "Alia Bhatt  is an Indian-born British actress and singer who works in Hindi-language films.",
+    "role": "Actress",
+
+    "age": 28,
+    "image": "https://m.media-amazon.com/images/M/MV5BZDJhOWNkNjQtNWJlMC00MWM3LWJmYjktMTIyYWI4NGYxNTBkXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",
+
+    "country": "India",
+
+    "salary": 30000000
+  },
+
+  {
+    "id": 6,
+    "key": "ASK",
+    "name": "Aksay kumar",
+    "description": "Akshay Kumar is a handsome and dashing hero of Bollywood. Rajiv Hari Om Bhatia is popularly known as Akshay Kumar. He was born on 7th September 1967.",
+
+    "role": "Actor",
+
+    "age": 42,
+    "image": "https://static.toiimg.com/thumb/msid-81894269,width-1200,height-900,resizemode-4/.jpg",
+
+    "country": "India",
+
+    "salary": 40000000
+  }
+]
