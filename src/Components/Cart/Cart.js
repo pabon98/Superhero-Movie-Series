@@ -39,11 +39,3 @@ const Cart = (props) =>{
 };
 
 export default Cart;
-
-/* 
- <ul>
-          {cart.map((actors) => (
-            <li>{actors.name}</li>
-          ))}
-        </ul>
-*/

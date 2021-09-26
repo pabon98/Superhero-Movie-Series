@@ -5,9 +5,9 @@ import './Heroes.css'
 
 const Heroes = () => {
     const[ heroes,setHeroes] = useState([])
-    //cart a heroes rakhar jonno
+    //using state for set cart
     const[cart,setCart] = useState([])
-    //we will use eventhandler for data loading
+    // using eventhandler for data loading
     const handleAddHeroes=(hero)=>{
         const newCart =[...cart, hero]
         // console.log(newCart)

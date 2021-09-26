@@ -10,7 +10,7 @@ const Hero = (props) => {
       <div className="row col-md-4 me-2">
         <div
           className="card mb-3 ms-5 me-2 hero-img"
-          style={{ "maxWidth": "540px" }}
+          style={{ maxWidth: "540px" }}
         >
           <div className="row g-0">
             <div className="col-md-5">
@@ -37,7 +37,7 @@ const Hero = (props) => {
                   onClick={() => props.handleAddHeroes(props.hero)}
                   className="btn btn-dark"
                 >
-                  Add To Cart
+                  <i class="fas fa-shopping-cart"></i> Add To Cart
                 </button>
               </div>
             </div>
