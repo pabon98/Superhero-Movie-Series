@@ -1,4 +1,4 @@
-#My Awesome Movie Series
+#*My Awesome Movie Series
 Project was bootstrapped with https://my-awesome-movie-series.netlify.app/
 #In the Project Directory You can run:
     • This is my awesome-movie-hero site
